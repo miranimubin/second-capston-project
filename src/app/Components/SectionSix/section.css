@@ -1,0 +1,32 @@
+.bg-padding{
+    padding-left: 5%;
+}
+
+.bg-image{
+    background-image: url("../../asseds/images/bgpic.png");
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.sec-six-btn{
+    background-color: rgba(16, 200, 67, 1);
+    color: white;
+    border: none;
+}
+
+.six-btn{
+    background-color: rgba(30, 30, 30, 0.2);
+    color: white;
+    borderl: bold 1px;
+    border-color: white;
+}
+
+.pra-six{
+    color: rgba(16, 200, 67, 1);
+}
+
+.peera-six{
+    font-size: 12px;
+}

@@ -1,0 +1,47 @@
+.text-color{
+    color: #10C843;
+}
+
+.btn1{
+    border: none;
+   
+    background-color: #10C843;
+    color: white;
+    padding-inline: 5%;
+}
+
+.btn2{
+    border-color: #10C843;
+   
+    background-color: white;
+    color:#10C843;
+    border: solid 1px;
+    padding-inline: 5%;
+
+    
+}
+
+.border{
+    border: 1px solid black;
+    height: 30px;
+
+}
+
+.hero-position{
+    position: absolute;
+    bottom: 4rem;
+    left: 1rem;
+    background-color: #fff;
+    border-radius: 20px;
+    width: 63%;
+}
+.btn-margin{
+margin: 0 0 0 100px;
+padding: 5px 20px;
+border-radius: 15px;
+border: none;
+background-color:#10C843;
+color: #fff;
+}
+
+

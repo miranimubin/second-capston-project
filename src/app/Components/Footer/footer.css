@@ -1,0 +1,52 @@
+
+.para-font{
+    font-family: 'Inter', sans-serif;
+}
+
+.footer-bg{
+    background-color:rgba(20, 20, 20, 1);
+    padding: 120px 0;
+}
+
+.foter-text-color{
+    color: rgba(16, 200, 67, 1);
+}
+
+.bg-foter{
+    background-image: url("../../asseds/images/bgfooter.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+}
+
+.margin-foter{
+    margin-top: 25%;
+}
+
+.position-footer{
+    position: absolute;
+    left: 50%;
+    bottom: 25%;
+}
+
+@media (max-width: 768px) {
+    .bg-foter{
+        background-image: url("../../asseds/images/bgfooter.png");
+        height: 110%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 90%;
+        /* margin: 12rem 0 0 0; */
+    }
+
+    .margin-foter{
+        margin-top: 28rem;
+    }
+    .foter-text-color{
+        color: rgba(16, 200, 67, 1);
+        padding: 2rem 0 0 0;
+    }
+}
